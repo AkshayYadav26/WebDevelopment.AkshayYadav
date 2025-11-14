@@ -1,0 +1,20 @@
+body{
+    background-color: red;
+
+}
+
+     div {
+        height: 300px;
+        width: 500px;
+ background-color: blue;
+ padding: 20px
+}
+
+.box{
+
+    align-content: center;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 10px;
+    
+}
